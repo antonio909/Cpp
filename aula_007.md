@@ -1,5 +1,5 @@
 
-# Code Editors / IDEs — Editores de Código e Ambientes de Desenvolvimento Integrados
+# Editores de Código e Ambientes de Desenvolvimento Integrados
 
 ## 1. Introdução
 
