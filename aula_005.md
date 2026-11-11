@@ -1,5 +1,5 @@
 
-# Setting Up Your Environment — Configurando o Ambiente C++
+# Configurando o Ambiente C++
 
 ## 1. Introdução
 
