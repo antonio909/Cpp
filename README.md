@@ -10,3 +10,4 @@
 - Aula 8 Executando seu Primeiro Programa
 - Aula 9 Operações Básicas
 - Aula 10 Operadores Aritméticos
+- Aula 11 Operadores Lógicos
