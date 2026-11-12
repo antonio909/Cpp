@@ -9,3 +9,4 @@
 - Aula 7 Editores de Código e Ambientes de Desenvolvimento Integrado
 - Aula 8 Executando seu Primeiro Programa
 - Aula 9 Operações Básicas
+- Aula 10 Operadores Aritméticos
